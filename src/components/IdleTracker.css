@@ -1,0 +1,14 @@
+.idle-tracker {
+    padding: 20px;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  .no-message {
+    color: red;
+    font-size: 38px;
+  }
+  .yes-message {
+    color: green;
+    font-size: 38px;
+  }
+  
